@@ -6,7 +6,7 @@ var mqtt = require("mqtt");
 module.exports = function(homebridge) {
   Service = homebridge.hap.Service;
   Characteristic = homebridge.hap.Characteristic;
-  homebridge.registerAccessory('homebridge-CommandePortail-mqtt', 'CommandePortail-mqtt', PortailAccessoryMqtt);
+  homebridge.registerAccessory('homebridge-commandePortail-mqtt', 'commandePortail-mqtt', PortailAccessoryMqtt);
 };
 
 function PortailAccessoryMqtt(log, config) {
