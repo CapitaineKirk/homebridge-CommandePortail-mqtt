@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-CommandePortail-Mqtt",
+  "name": "homebridge-CommandePortail-mqtt",
   "version": "1.0.0",
   "description": "Homebridge plugin gérant un portail",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CapitaineKirk/homebridge-CommandePortail-Mqtt"
+    "url": "git+https://github.com/CapitaineKirk/homebridge-CommandePortail-mqtt"
   },
   "keywords": [
     "homebridge-plugin",
@@ -21,7 +21,7 @@
   "author": "Capitaine Kirk",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CapitaineKirk/homebridge-CommandePortail-Mqtt/issues"
+    "url": "https://github.com/CapitaineKirk/homebridge-CommandePortail-mqtt/issues"
   },
-  "homepage": "https://github.com/CapitaineKirk/homebridge-CommandePortail-Mqtt#readme"
+  "homepage": "https://github.com/CapitaineKirk/homebridge-CommandePortail-mqtt#readme"
 }
